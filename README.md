@@ -1,1 +1,1 @@
-# CV
+# Covid-19 site
